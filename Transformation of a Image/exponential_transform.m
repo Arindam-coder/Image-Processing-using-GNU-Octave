@@ -16,9 +16,7 @@ title('Gray Scale of Input Image')
 c = 0.021746 % change the value of c for different output. Putting r=255 & s=255 ,
 % I got c=0.021746
 result_image = exp(c * gray_scale_image) - 1 ;
-result_image = uint8(result_image);
 subplot(1,2,2)
-imshow(result_image);
+imshow(uint8(result_image));
 title('Exponential Transformation of the gray scale Image')
 print -djpg logarithamic_image.jpg % to save the figure
-imwrite(result_image,'exp_transformed.png')  % to save the image

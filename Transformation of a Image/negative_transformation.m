@@ -19,4 +19,5 @@ result_image = 255 - gray_scale_image;
 subplot(1,2,2)
 imshow(result_image);
 title('Negative of the input gray scale Image')
-print -djpg negative.jpg % to save the image
+%print -djpg negative.jpg % to save the image
+imwrite(result_image, 'negative_transformed.png')
