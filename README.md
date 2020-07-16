@@ -15,16 +15,20 @@ exponentiaal transformation
 
 <a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/Gamma_Corrected_Image.jpg" height="240" width="360" ></a>
 
-  # Histogram Equlization
+  # Histogram Equlized Image
 
 <a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/Histogram%20Equilized%20Image.png" height="240" width="360" ></a>
 
 
-  # Logarithamic Transformation
+  # Logarithamic Transformed Image
 
-<a href="url"><img src="hhttps://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/logarithamic_transformation.jpg" height="240" width="360" ></a>
+<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/Log_transformed.png" height="240" width="360" ></a>
 
 
-  # Exponential Transformation
+  # Exponential Transformed Image
 
 <a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/exponential_transform.jpg" height="240" width="360" ></a>
+
+ # Negative Transformed Image
+ <a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/negative_transformed.png" height="240" width="360"></a>
+ 
