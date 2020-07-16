@@ -16,11 +16,13 @@ title('Histogram of the Gray Scale Image')
 %save the figures
 %print -djpg histogram_equilization.jpg
 
-J = histeq(double(grayscale_image)/255,256);
+histo_image = histeq(double(grayscale_image)/255,256);
+histo_image = uint8(255*histo_image);
 subplot(2,2,3)
-imshow(uint8(255*J))
+imshow(histo_image)
 title('Histogram Equilized Image')
 
 subplot(2,2,4)
-imhist(uint8(255*J),256)
+imhist(histo_image,256)
 title('Histogram of the Equilized Image')
+imwrite(histo_image, 'Histogram Equilized Image.png')

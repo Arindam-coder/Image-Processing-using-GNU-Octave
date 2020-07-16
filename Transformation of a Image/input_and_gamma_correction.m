@@ -56,3 +56,6 @@ plot(a);
 title('FFt of the Image')
 %save figure
 %print -djpg FFT_image.jpg
+
+imwrite(gray_scale_image, 'Gray Scale Image.png')
+imwrite(a, 'FFT_image.png')
