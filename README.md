@@ -7,7 +7,9 @@ exponentiaal transformation
   # Original Image & it's gray scale image
 
 
-<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/gray_scale_image.jpg"  height="680" width="450" ></a>
+<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/messi.jpg"  height="680" width="450" ></a>
+
+<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/Gray%20Scale%20Image.png"  height="680" width="450" ></a>
 
   # Gamma Corrected Image
 
@@ -15,7 +17,7 @@ exponentiaal transformation
 
   # Histogram Equlization
 
-<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/histogram_equilization.jpg" height="680" width="450" ></a>
+<a href="url"><img src="https://github.com/Arindam-coder/Image-Processing-using-GNU-Octave/blob/master/Transformation%20of%20a%20Image/Histogram%20Equilized%20Image.png" height="680" width="450" ></a>
 
 
   # Logarithamic Transformation
