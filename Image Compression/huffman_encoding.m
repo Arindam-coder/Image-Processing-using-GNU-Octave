@@ -18,7 +18,7 @@ for i = 1:M
        
   end
 end
-prob = Count/(M*N)
+prob = Count/(M*N);
 symbols = 0:255;
 [dict,avglen] = huffmandict(symbols,prob,1); 
 comp = huffmanenco(Image,dict);
